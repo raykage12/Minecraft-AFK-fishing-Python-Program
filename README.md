@@ -1,6 +1,9 @@
 # Minecraft-AFK-fishing-Python-Program
 a python program that automates fishing using sounddevice and VB-Audio-Virtual Cable. Not sure how efficient the program is or if there are simpler ways to create this, but it does the job.
 
+video demonstration:
+https://www.youtube.com/watch?v=wwxgR8Wa86A&ab_channel=RayMin
+
 Program detects audio, so when something catches onto the bobber, it makes a loud sound and the program detects it, reels it in, and throws reel back out and the process starts again. Other sounds can throw off the program so make sure nothing nearby is making loud noises. eg. mobs, other players...
 
 
