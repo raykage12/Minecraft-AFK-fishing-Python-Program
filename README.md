@@ -9,8 +9,10 @@ there are a couple steps that need to be completed before this program can funct
 1 - Download Python and set Path
 python website:
 https://www.python.org/
+
 video tutorial: 
 https://www.youtube.com/watch?v=yivyNCtVVDk&ab_channel=GeekyScript
+
 path tutorial:
 https://www.youtube.com/watch?v=lezhrFdVSVY&ab_channel=ExampleProgram
 
@@ -41,6 +43,9 @@ just the first 3-4 minutes of the video tutorial are needed. You will need to se
 - to stop, press F3
 
 Note: volume threshold may have to be adjusted. 2.5 is what works best for me but Ive only ever tried this on my computer. Adjust if needed.
+
 lower = higher sensitivity
+
 higher = lower sensitivity
+
 to adjust, find volume_threshold variable on line 15 and change value
