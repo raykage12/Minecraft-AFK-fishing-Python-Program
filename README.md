@@ -41,7 +41,7 @@ just the first 3-4 minutes of the video tutorial are needed. You will need to se
 
 - Use whatever text editor you want and run the program. a print statement should say "Press F4 to start program."
 - Go to the game, have rod out, and press F4 to start
-- to stop, press F3
+- to stop, go back into editor and end program
 
 Note: volume threshold may have to be adjusted. 2.5 is what works best for me but Ive only ever tried this on my computer. Adjust if needed.
 
