@@ -31,6 +31,7 @@ if not, there are video tutorials online to get pip
 3 - VB-Audio-Cable
 website - 
 https://vb-audio.com/Cable/
+
 video tutorial - 
 https://www.youtube.com/watch?v=4sGWzOyF82M&t=241s&ab_channel=TheFrugalStreamer
 
